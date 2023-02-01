@@ -48,3 +48,4 @@
 /Volumes/hugolima/Dev/DataAccessDotNet/obj/Debug/net7.0/DataAccessDotNet.pdb
 /Volumes/hugolima/Dev/DataAccessDotNet/obj/Debug/net7.0/DataAccessDotNet.genruntimeconfig.cache
 /Volumes/hugolima/Dev/DataAccessDotNet/obj/Debug/net7.0/ref/DataAccessDotNet.dll
+/Volumes/hugolima/Dev/DataAccessDotNet/bin/Debug/net7.0/Dapper.dll
