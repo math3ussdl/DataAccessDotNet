@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "WZaj/sHTNMATaB9DgOHTlQEKBeeOSFF2ZrkobEAk/HKnpl5Mae0CQKwlXTasDIiMxeLHmMjKBN/YdudIeamT8w==",
+  "dgSpecHash": "iedB2TJ6n+oGG6FWAVijqapvaeK0/AXLjM+iBTaF3N35fQrjRwvNLYFw11+Nx+4vbzrJ7ZNT9uoxODdb52m4uw==",
   "success": true,
   "projectFilePath": "/Volumes/hugolima/Dev/DataAccessDotNet/DataAccessDotNet.csproj",
   "expectedPackageFiles": [
     "/Users/hugolima/.nuget/packages/azure.core/1.25.0/azure.core.1.25.0.nupkg.sha512",
     "/Users/hugolima/.nuget/packages/azure.identity/1.7.0/azure.identity.1.7.0.nupkg.sha512",
+    "/Users/hugolima/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
     "/Users/hugolima/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/hugolima/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/hugolima/.nuget/packages/microsoft.data.sqlclient/5.1.0/microsoft.data.sqlclient.5.1.0.nupkg.sha512",
